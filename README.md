@@ -1,5 +1,6 @@
 # TeyvatAide
 这是一个关于原神素材的软件
+<br/>
 <img src="./readimages/show1.png" width="350" height="778" alt="图片1" />
 <img src="./readimages/show2.png" width="350" height="778" alt="图片2" />
 
